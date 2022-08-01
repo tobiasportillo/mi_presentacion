@@ -1,0 +1,22 @@
+---
+title: "Presentation Ninja"
+subtitle: "⚔<br/>with xaringan"
+author: "Yihui Xie"
+institute: "RStudio, PBC"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rladies, rladies-fonts]
+    self_contained: true
+    nature:
+      ratio: '16:9'
+
+---
+
+Título nivel 1
+
+# Titulo
+
+---
+
+Título nivel 2
