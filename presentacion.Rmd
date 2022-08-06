@@ -13,12 +13,67 @@ output:
 
 ---
 
-Título nivel 1
+Título nivel 1 @ https://github.com/tobiasportillo
 
-# Titulo
+# Diapositivas CDSB2022
+
+https://comunidadbioinfo.github.io/cdsb2022/index.html
+
+https://github.com/ComunidadBioInfo/templado_bookdown/
+
+https://tinyurl.com/cdsb2021pkg
+
+https://erickcufe.github.io/versiones_GitHub_RStudio/git_Rstudio.html#1
+
+https://comunidadbioinfo.github.io/cdsb2022/dia4_sesion1.html#1
+
+
 
 ---
 
 Título nivel 2
 
-## Titulo 2
+## Herramientas
+
+## Programas útiles
+
+https://jgi.doe.gov/data-and-tools/software-tools/bbtools/
+
+https://github.com/cmks/DAS_Tool
+
+https://github.com/Ecogenomics/GTDBTk
+
+
+---
+
+## Algunos cursos en la web
+
+https://www.coursera.org/lecture/metagenomics/metagenomic-assembly-and-binning-reconstructing-genomes-from-reads-aXCWS
+
+https://happygitwithr.com/
+
+https://erickcufe.github.io/abc_RMarkdown/abc_RMarkdown_slides.html#1
+
+### Creacción CV
+
+https://github.com/mitchelloharawild/vitae
+
+---
+
+## Bases de Datos
+
+https://gtdb.ecogenomic.org/
+
+
+
+---
+
+Otros
+
+https://www.cell.com/the-innovation/fulltext/S2666-6758(20)30061-8
+
+https://www.researchsquare.com/article/rs-1620321/v1
+
+
+
+
