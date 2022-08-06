@@ -35,6 +35,8 @@ Título nivel 2
 
 ## Herramientas
 
+http://132.248.181.125:8085/auth-sign-in
+
 ## Programas útiles
 
 https://jgi.doe.gov/data-and-tools/software-tools/bbtools/
@@ -43,6 +45,11 @@ https://github.com/cmks/DAS_Tool
 
 https://github.com/Ecogenomics/GTDBTk
 
+https://github.com/jtamames/SqueezeMeta
+
+http://madsalbertsen.github.io/mmgenome/
+
+https://merenlab.org/2016/06/22/anvio-tutorial-v2/
 
 ---
 
@@ -54,6 +61,10 @@ https://happygitwithr.com/
 
 https://erickcufe.github.io/abc_RMarkdown/abc_RMarkdown_slides.html#1
 
+https://www.youtube.com/c/merenlab/videos
+
+https://arm.rbind.io/
+
 ### Creacción CV
 
 https://github.com/mitchelloharawild/vitae
@@ -64,16 +75,67 @@ https://github.com/mitchelloharawild/vitae
 
 https://gtdb.ecogenomic.org/
 
+https://bcb.unl.edu/dbCAN2/
+
+https://www.ebi.ac.uk/merops/
+
+https://card.mcmaster.ca/analyze/rgi
 
 
 ---
 
-Otros
+# Slack
+
+https://app.slack.com/client/TABSPEXGS/C03PSLW0MJM?cdn_fallback=1
+
+### Otros
+
+https://comunidadbioinfo.github.io/
+
+https://cursos.nnb.unam.mx/login/index.php
 
 https://www.cell.com/the-innovation/fulltext/S2666-6758(20)30061-8
 
 https://www.researchsquare.com/article/rs-1620321/v1
 
+https://docs.google.com/document/d/1Tg_Q2q1dtaUrKw_lIkwt1kB9d9S3RvZ3lKq5d9fKFVM/edit?pli=1#
 
+http://lnatcg.unam.mx/
+
+---
+
+# Artículos
+
+https://www.nature.com/articles/nmicrobiol201656
+
+https://www.nature.com/articles/nrmicro2386
+
+https://www.nature.com/articles/s41564-020-0715-z
+
+https://www.nature.com/articles/s41467-021-22736-6
+
+https://www.nature.com/articles/s41396-022-01287-8
+
+https://www.nature.com/articles/s41396-021-01057-y
+
+https://www.nature.com/articles/nature14447
+
+https://www.nature.com/articles/nature21031
+
+https://www.science.org/doi/10.1126/science.aaf3883?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+
+https://pubmed.ncbi.nlm.nih.gov/28798101/
+
+https://www.nature.com/articles/s41586-018-0548-6
+
+---
+
+https://www.nature.com/articles/s41467-019-09364-x
+
+https://www.nature.com/articles/d41586-021-01316-0
+
+https://www.nature.com/articles/s41586-019-1916-6
+
+https://www.nature.com/articles/s41598-020-71864-4
 
 
